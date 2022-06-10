@@ -10,7 +10,7 @@
 As a experienced Air traffic controller and Data Scientist Junior, I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years solving real problems at Brazilian Air Force, I developed a critical thinking and problem-solving skills.
 
 
-**Background in:** Python, Google Analytics, Data Science.
+**Background in:** Python, Google Analytics, Data Science, CRM and etc.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/carlos-cardoso-1b0a47181/)
